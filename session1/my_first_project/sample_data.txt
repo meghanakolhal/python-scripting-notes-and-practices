@@ -1,0 +1,2 @@
+Python file handling demo.
+This file exists and can be read.
