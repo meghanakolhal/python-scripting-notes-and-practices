@@ -1,0 +1,8 @@
+name: user-service
+environment: dev
+replicas: 3
+image: ghcr.io/example/user-service:1.2.0
+port: 8080
+labels:
+  app: user-service
+  team: platform

@@ -1,0 +1,6 @@
+name: user-service
+replicas: 3
+port: 8080
+labels:
+  app: user-service
+  env: dev

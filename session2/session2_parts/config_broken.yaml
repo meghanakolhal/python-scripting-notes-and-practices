@@ -1,0 +1,7 @@
+name: 99
+environment: qa
+replicas: 0
+image: user-service
+port: 70000
+labels:
+  app: 101

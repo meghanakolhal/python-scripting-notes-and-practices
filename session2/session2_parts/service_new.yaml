@@ -1,0 +1,4 @@
+healthcheck_path: /health
+name: myapp
+port: 8080
+replicas: 4
